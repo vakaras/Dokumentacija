@@ -1,0 +1,41 @@
+﻿„'''User requirements document'''“ (sutrumpintai URD) - dokumentas, kuriame 
+apibrėžiama, kokius reikalavimus turi atitikti kuriama programinė įranga.
+
+==Dokumento struktūra==
+
+===Įžanga===
+Trumpas aprašymas kam skirtas šis dokumentas.
+
+====Apibrėžimai ir santrumpos====
+<nowiki>
+|Žodis| aprašymas
+</nowiki>
+
+===Aprašymas===
+
+====Bendrieji reikalavimai====
+Bendras programinės įrangos reikalavimų aprašymas. Nedetalizuotas.
+
+====Naudotojo aprašymas====
+Į kokį naudotoją orientuota programinė įranga.
+
+====Darbo aplinka====
+Kokioje aplinkoje bus naudojama programinė įranga (kompiuterio tipas, 
+operacinė sistema ir taip toliau).
+
+====Prielaidos ir priklausomybės====
+Programinės įrangos reikalavimai.
+
+====Specialieji reikalavimai====
+Specialieji reikalavimai yra sužymėti URYY-XXX, kur XXX yra unikalus 
+indeksas (skaičius), o YY yra prioritetas.
+
+Kuo prioritetas didesnis tuo reikalavimo įgyvendinimas yra svarbesnis.
+Reikalavimai kurių prioritetas yra lygus 01 privalo būti įgyvendinti.
+
+<nowiki>
+|UR01-001| aprašymas
+</nowiki>
+
+====Šaltiniai====
+
