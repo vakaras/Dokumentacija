@@ -4,12 +4,14 @@ apibrėžiama, kokius reikalavimus turi atitikti kuriama programinė įranga.
 ==Dokumento struktūra==
 
 ===Įžanga===
+----
 Trumpas aprašymas kam skirtas šis dokumentas.
 
 ====Apibrėžimai ir santrumpos====
-;Žodis: aprašymas
+;Žodis: Aprašymas.
 
 ===Aprašymas===
+----
 
 ====Bendrieji reikalavimai====
 Bendras programinės įrangos reikalavimų aprašymas. Nedetalizuotas.
@@ -24,7 +26,8 @@ operacinė sistema ir taip toliau).
 ====Prielaidos ir priklausomybės====
 Programinės įrangos reikalavimai.
 
-====Specialieji reikalavimai====
+===Specialieji reikalavimai===
+----
 Specialieji reikalavimai yra sužymėti URYY-XXX, kur XXX yra unikalus 
 indeksas (skaičius), o YY yra prioritetas.
 
@@ -34,5 +37,7 @@ Reikalavimai kurių prioritetas yra lygus 01 privalo būti įgyvendinti.
 =====Sritis=====
 ;UR01-001: Aprašymas.
 
-====Šaltiniai====
+===Šaltiniai===
+----
 
+[[Kategorija:Projektai]]
