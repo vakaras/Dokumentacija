@@ -7,9 +7,7 @@ apibrėžiama, kokius reikalavimus turi atitikti kuriama programinė įranga.
 Trumpas aprašymas kam skirtas šis dokumentas.
 
 ====Apibrėžimai ir santrumpos====
-<nowiki>
-|Žodis| aprašymas
-</nowiki>
+;Žodis: aprašymas
 
 ===Aprašymas===
 
@@ -33,9 +31,8 @@ indeksas (skaičius), o YY yra prioritetas.
 Kuo prioritetas didesnis tuo reikalavimo įgyvendinimas yra svarbesnis.
 Reikalavimai kurių prioritetas yra lygus 01 privalo būti įgyvendinti.
 
-<nowiki>
-|UR01-001| aprašymas
-</nowiki>
+=====Sritis=====
+;UR01-001: Aprašymas.
 
 ====Šaltiniai====
 
